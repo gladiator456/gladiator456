@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm gladiator456 👋</h1>
+<h1 align="center">Hey, I'm ANUJ 👋</h1>
 
 <p align="center">
   <b>Learning by building, experimenting, and solving problems.</b><br>
@@ -14,8 +14,7 @@
 
 ### 👨‍💻 About me
 
-I’m growing as a developer by writing code, building projects, and understanding **why** a solution works—not just whether it runs. Lately, I’ve been practicing C++ and data structures, exploring Python projects, and getting more comfortable with Linux, SQL, and Git.
-
+I’m growing as a developer by writing code, building projects, and understanding **why** a solution works—not just whether it runs. 
 ### 🧰 My toolkit
 
 <p>
@@ -27,19 +26,7 @@ I’m growing as a developer by writing code, building projects, and understandi
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-### 🚀 Projects I'm proud to explore
 
-- 📡 **[Smart Network Traffic Analyzer](https://github.com/gladiator456/Smart-Network-Traffic-Analyzer)** — captures packets, identifies common protocols, logs traffic, and summarizes network activity with Python and Scapy.
-- ⚗️ **[Reaction Kinetics Analyzer](https://github.com/gladiator456/reaction-kinetics)** — a Streamlit app that analyzes concentration data to estimate reaction order, rate constant, and half-life.
-- 🎨 **[Celebrity Face Generation with a VAE](https://github.com/gladiator456/Celebrity-Face-Generation-VAE)** — a PyTorch learning project exploring face reconstruction, generation, and latent-space edits.
-- 🧠 **[AASIST3 audio anti-spoofing](https://github.com/gladiator456/aasist3)** — an experimental project exploring KAN components in a graph-based speech anti-spoofing model; real-dataset evaluation is still in progress.
-- 🏁 **[Codeforces solutions](https://github.com/gladiator456/codeforcessoln82)** — a growing collection of solutions across topics including trees, graphs, dynamic programming, and greedy algorithms.
-
-### 🌱 What I’m working on
-
-- Getting more fluent with C++ and Python
-- Practicing trees, graphs, recursion, and algorithms
-- Building useful projects and improving them one step at a time
 
 <p align="center">
   <i>Curiosity in, better code out. 🌱</i>
